@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#camp {
+    width: 100%;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.app-link {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+#flavor-txt {
+    font-size: 21px;
+    color: gray;
+}
+
+#copyright {
+    color: gray;
+    text-align: right;
+}
